@@ -67,7 +67,7 @@ class MailerController extends AbstractController
 }
 ```
 
-# Twig Templated Emails
+# Twig Templated Email
 
 ```php
 // src/Controller/MailerController.php
