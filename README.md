@@ -3,7 +3,7 @@ This repository shows how to send emails by using the Mailer Component and SendG
 
 
 # Installation
-We need install Mailer and SendGrid support with composer command. If you do not have composer, you should install it first.
+We need to install Mailer and SendGrid support with composer command. If you do not have composer, you should install it first.
 
 `composer require symfony/mailer`
 
